@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 22 in 16 lines: 10 · Rod · SSUEL · RESION · WARD-BECK  SYSTEMS · WBS5 · IDRN; PAS · BOTTOM FOR · ENG; PAS · CKD_ · M901 TEST JIG · APP:
 - **Title block:** (304, 13)–(426, 58) mm: SSUEL · RESION · WARD-BECK  SYSTEMS · WBS5 · IDRN; PAS · BOTTOM FOR · ENG; PAS · CKD_ · M901 TEST JIG · APP: · SCALE DISC HO: MA93002 · 1;2 CODE: · 901-03-011 · SSUE
 
-Every curve, box, word and wire group: [19xx - M901 - DOC - 901-03-011 - SQES TDURCE FICTS (traced).json](../MECHANICAL/19xx%20-%20M901%20-%20DOC%20-%20901-03-011%20-%20SQES%20TDURCE%20FICTS%20(traced).json) (the CAD file: `19xx - M901 - DOC - 901-03-011 - SQES TDURCE FICTS (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M901 - DOC - 901-03-011 - SQES TDURCE FICTS (traced).json](../MECHANICAL/19xx%20-%20M901%20-%20DOC%20-%20901-03-011%20-%20SQES%20TDURCE%20FICTS%20%28traced%29.json) (the CAD file: `19xx - M901 - DOC - 901-03-011 - SQES TDURCE FICTS (traced).dxf`).
 
 ## Full text
 

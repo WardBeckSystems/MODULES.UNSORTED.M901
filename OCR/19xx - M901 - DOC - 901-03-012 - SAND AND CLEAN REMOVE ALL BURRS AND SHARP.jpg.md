@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 63 in 60 lines: 901-03-012-1 · 901-03-012_2 · 2,000 · 1,500 · 2.125 · 0.375 · 2.125 · 0,790 · 0.500 · 1,760 · 0,400 · "4-40 UNC
 - **Title block:** (303, 23)–(425, 59) mm: ISSVE · WBSs · WARD-BECK SYSTEMS · DRN. · PAS · M450B MOUNTING · ENG · PAS · BRACKET FOR M9O1 · CKD: · TEST JIG · #PP
 
-Every curve, box, word and wire group: [19xx - M901 - DOC - 901-03-012 - SAND AND CLEAN REMOVE ALL BURRS AND SHARP (traced).json](../MECHANICAL/19xx%20-%20M901%20-%20DOC%20-%20901-03-012%20-%20SAND%20AND%20CLEAN%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20(traced).json) (the CAD file: `19xx - M901 - DOC - 901-03-012 - SAND AND CLEAN REMOVE ALL BURRS AND SHARP (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M901 - DOC - 901-03-012 - SAND AND CLEAN REMOVE ALL BURRS AND SHARP (traced).json](../MECHANICAL/19xx%20-%20M901%20-%20DOC%20-%20901-03-012%20-%20SAND%20AND%20CLEAN%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20%28traced%29.json) (the CAD file: `19xx - M901 - DOC - 901-03-012 - SAND AND CLEAN REMOVE ALL BURRS AND SHARP (traced).dxf`).
 
 ## Full text
 
