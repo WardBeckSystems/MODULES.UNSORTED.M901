@@ -1,0 +1,124 @@
+{
+ "drawing": "Modules/UNSORTED/M901/MECHANICAL/19xx - M901 - DOC - 901-03-011 - SQES TDURCE FICTS.jpg",
+ "version": 1,
+ "trace": "_traces/59b9c04921a3a8b7.svg",
+ "sheet": {
+  "number": "901-03-011",
+  "title": "",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1333],
+  "mm": [431.8, 287.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [44.9, 12.5, 422.1, 193.0],
+ "outlines": {
+  "line": {"rings": 265, "straight": {"n": 2572, "mm": 5666.4}, "curved": {"n": 462, "mm": 594.1}},
+  "text": {"rings": 146, "straight": {"n": 911, "mm": 1084.3}, "curved": {"n": 353, "mm": 488.6}},
+  "tb": {"rings": 19, "straight": {"n": 153, "mm": 221.4}, "curved": {"n": 27, "mm": 36.6}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 1658, "straight": {"n": 1804, "mm": 2481.3}, "curved": {"n": 35, "mm": 26.4}},
+   "text": {"paths": 722, "straight": {"n": 1025, "mm": 782.1}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 193, "straight": {"n": 237, "mm": 809.2}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 45,
+  "orientation": {"horizontal": {"n": 892, "mm": 2140.1}, "vertical": {"n": 748, "mm": 969.6}, "diagonal": {"n": 1426, "mm": 962.9}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [48.9, 177.7], "r": 1.2, "kind": "arc", "span": 168, "from": ["centre line"], "start": 215},
+  {"c": [58.5, 164.2], "r": 1.0, "kind": "arc", "span": 148, "from": ["centre line"], "start": 309},
+  {"c": [344.6, 148.5], "r": 1.0, "kind": "arc", "span": 127, "from": ["centre line"], "start": 63},
+  {"c": [349.3, 133.6], "r": 1.0, "kind": "arc", "span": 127, "from": ["centre line"], "start": 333},
+  {"c": [179.5, 171.4], "r": 0.9, "kind": "arc", "span": 264, "from": ["centre line"], "start": 124},
+  {"c": [88.0, 171.5], "r": 0.8, "kind": "arc", "span": 183, "from": ["centre line"], "start": 25},
+  {"c": [181.8, 191.5], "r": 0.8, "kind": "arc", "span": 113, "from": ["centre line"], "start": 56},
+  {"c": [346.6, 133.4], "r": 0.8, "kind": "arc", "span": 189, "from": ["centre line"], "start": 193},
+  {"c": [366.3, 131.0], "r": 0.8, "kind": "arc", "span": 169, "from": ["centre line"], "start": 175},
+  {"c": [178.0, 191.5], "r": 0.7, "kind": "arc", "span": 173, "from": ["centre line"], "start": 257},
+  {"c": [59.8, 120.7], "r": 0.7, "kind": "arc", "span": 210, "from": ["centre line"], "start": 73}
+ ],
+ "boxes": [
+  {"mm": [334.4, 55.7, 343.1, 60.0], "w": 8.6, "h": 4.3, "from": "ring", "words": ["SSUEL"]},
+  {"mm": [343.3, 55.3, 413.9, 60.0], "w": 70.6, "h": 4.7, "from": "ring", "words": ["RESION"]},
+  {"mm": [312.4, 41.7, 421.4, 55.5], "w": 109.0, "h": 13.8, "from": "ring", "words": ["WARD-BECK  SYSTEMS", "WBS5"], "in_title_block": true},
+  {
+   "mm": [338.1, 22.4, 421.4, 41.9],
+   "w": 83.3,
+   "h": 19.5,
+   "from": "ring",
+   "words": ["BOTTOM FOR", "M901", "TEST", "JIG"],
+   "in_title_block": true
+  },
+  {"mm": [312.6, 37.3, 337.9, 41.9], "w": 25.3, "h": 4.6, "from": "ring", "words": ["IDRN;", "PAS"], "in_title_block": true},
+  {"mm": [312.6, 32.6, 337.9, 37.1], "w": 25.3, "h": 4.5, "from": "ring", "words": ["ENG;", "PAS"], "in_title_block": true},
+  {"mm": [312.8, 27.5, 338.1, 32.4], "w": 25.3, "h": 4.9, "from": "ring", "words": ["CKD_"], "in_title_block": true},
+  {"mm": [312.8, 22.5, 338.1, 27.4], "w": 25.3, "h": 4.9, "from": "ring", "words": ["APP:"], "in_title_block": true},
+  {"mm": [313.1, 12.9, 326.2, 22.5], "w": 13.2, "h": 9.6, "from": "ring", "words": ["SCALE", "1;2"], "in_title_block": true},
+  {"mm": [326.2, 17.9, 356.5, 22.2], "w": 30.2, "h": 4.3, "from": "ring", "words": ["DISC HO: MA93002"], "in_title_block": true},
+  {"mm": [356.7, 13.0, 364.4, 22.2], "w": 7.8, "h": 9.3, "from": "ring", "in_title_block": true},
+  {"mm": [364.4, 13.0, 410.2, 22.2], "w": 45.8, "h": 9.3, "from": "ring", "words": ["901-03-011"], "in_title_block": true},
+  {"mm": [410.4, 13.0, 421.7, 22.2], "w": 11.2, "h": 9.3, "from": "ring", "words": ["SSUE"], "in_title_block": true},
+  {"mm": [326.2, 13.0, 356.7, 17.9], "w": 30.4, "h": 4.9, "from": "ring", "words": ["CODE:"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [345.9, 134.5, 351.9, 136.7], "text": "10"},
+   {"mm": [318.7, 98.7, 325.8, 102.0], "text": "Rod"},
+   {"mm": [335.5, 55.5, 343.5, 59.3], "text": "SSUEL"},
+   {"mm": [371.1, 55.5, 384.5, 59.3], "text": "RESION"},
+   {"mm": [353.0, 45.1, 417.1, 52.8], "text": "WARD-BECK  SYSTEMS"},
+   {"mm": [319.5, 45.6, 343.3, 52.0], "text": "WBS5"},
+   {"mm": [312.2, 37.8, 331.2, 41.6], "text": "IDRN; PAS"},
+   {"mm": [360.1, 32.6, 394.0, 39.6], "text": "BOTTOM FOR"},
+   {"mm": [312.8, 32.8, 331.2, 36.7], "text": "ENG; PAS"},
+   {"mm": [312.8, 28.1, 319.3, 31.9], "text": "CKD_"},
+   {"mm": [357.3, 26.8, 396.4, 33.2], "text": "M901 TEST JIG"},
+   {"mm": [313.3, 23.1, 319.7, 26.9], "text": "APP:"},
+   {"mm": [315.0, 17.9, 353.9, 22.2], "text": "SCALE DISC HO: MA93002"},
+   {"mm": [315.0, 13.6, 335.9, 18.9], "text": "1;2 CODE:"},
+   {"mm": [371.3, 14.9, 403.7, 21.4], "text": "901-03-011"},
+   {"mm": [411.1, 18.4, 420.8, 22.2], "text": "SSUE"}
+  ],
+  "scale": "DISC HO: MA93002"
+ },
+ "title_block": {
+  "mm": [303.6, 12.6, 425.8, 58.4],
+  "from": "title-block words (training set)",
+  "text": [
+   "SSUEL",
+   "RESION",
+   "WARD-BECK  SYSTEMS",
+   "WBS5",
+   "IDRN; PAS",
+   "BOTTOM FOR",
+   "ENG; PAS",
+   "CKD_",
+   "M901 TEST JIG",
+   "APP:",
+   "SCALE DISC HO: MA93002",
+   "1;2 CODE:",
+   "901-03-011",
+   "SSUE"
+  ]
+ },
+ "dots": [{"c": [286.8, 154.5], "r": 1.1, "lines": 32}],
+ "summary": [
+  "- **Sheet:** mechanical 901-03-011, size B (assumed) 432 × 288 mm, 2000 × 1333 px traced (0.216 mm/px); scale DISC HO: MA93002",
+  "- **Ink extent:** 45–422 mm across, 12–193 mm up",
+  "- **Outlines:** line 265 rings, 2,572 straight (5,666 mm) / 462 curved (594 mm); text 146 rings, 911 straight (1,084 mm) / 353 curved (489 mm); tb 19 rings, 153 straight (221 mm) / 27 curved (36.6 mm)",
+  "- **Centre lines:** 2,573 paths (45 closed); straight 4,073 mm, curved 26.4 mm; horizontal 2,140 mm, vertical 970 mm, diagonal 963 mm",
+  "- **Circles and arcs:** 0 circles, 11 arcs",
+  "- **Closed boxes:** 14 (12 in the title block); named: SSUEL; RESION",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 22 in 16 lines: 10 · Rod · SSUEL · RESION · WARD-BECK  SYSTEMS · WBS5 · IDRN; PAS · BOTTOM FOR · ENG; PAS · CKD_ · M901 TEST JIG · APP:",
+  "- **Title block:** (304, 13)–(426, 58) mm: SSUEL · RESION · WARD-BECK  SYSTEMS · WBS5 · IDRN; PAS · BOTTOM FOR · ENG; PAS · CKD_ · M901 TEST JIG · APP: · SCALE DISC HO: MA93002 · 1;2 CODE: · 901-03-011 · SSUE"
+ ]
+}
