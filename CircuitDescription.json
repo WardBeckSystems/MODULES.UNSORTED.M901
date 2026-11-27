@@ -1,0 +1,27 @@
+{
+ "module": "M901",
+ "source": {
+  "file": "MANUALS/1995 - M901 - DOC - 14-152-02-003 - COMPONENT LAYOUT.wp",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.97,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "4 Operational Description 4-15 Parts List 5-1 to 5-86 Connector Layout 6-17 Frequency Response Curves 7-1 to 7-2",
+    "8 Drawings:",
+    "Front Panel Layout A 922-04-001 M922 Functional B 922-01-001 M922 Schematic B 922-02-001/1 M922 Schematic B 922-02-001/2 M922 Component Layout B 922-06-001",
+    "M922A Functional B 922-01-002 M922A Schematic B 922-02-002/1 M922A Schematic B 922-02-002/2 M922A Component Layout B 922-06-002",
+    "II) Subassembly",
+    "A SA14-152B/SA14-152C Filter Assemblies",
+    "1 Circuit Description 1-12 Parts List 2-1 to 2-4",
+    "3 SA14-152B Schematic B 14-152-02-003 Component Layout B 14-152-06-003",
+    "SA14-152C Schematic B 14-152-02-004 Component Layout B 14-152-06-004"
+   ]
+  }
+ ]
+}
