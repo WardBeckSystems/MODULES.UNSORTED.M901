@@ -1,11 +1,11 @@
-# M901 · Unsorted
+# M901 Input Module · Unsorted
 
 Ward-Beck Systems M901, 1994|27. Wiki page: [M901 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M901.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 1 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 14 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 18 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
@@ -78,7 +78,7 @@ SA14-152C Schematic B 14-152-02-004 Component Layout B 14-152-06-004
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1LfWbg-Hq6Ypjb1YqaNCLzTrrg0m3vMvT/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1LfWbg-Hq6Ypjb1YqaNCLzTrrg0m3vMvT" width="240" alt="1994 - M901 - DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE.jpg"></a><br><sub>1994|27 · DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/13xDlLRyyxLiLxsBy4mugblLKXKkC48Fp/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=13xDlLRyyxLiLxsBy4mugblLKXKkC48Fp" width="240" alt="19xx - M901 - DOC - 901-03-011 - SQES TDURCE FICTS.jpg"></a><br><sub>19xx - M901 - DOC - 901-03-011 - SQES TDURCE FICTS</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1YGuhAq5MDaX8dz8gu6bmtEh_tomJhZlP/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1YGuhAq5MDaX8dz8gu6bmtEh_tomJhZlP" width="240" alt="19xx - M901 - DOC - 901-03-012 - SAND AND CLEAN REMOVE ALL BURRS AND SHARP.jpg"></a><br><sub>19xx - M901 - DOC - 901-03-012 - SAND AND CLEAN REMOVE ALL BURRS AND SHARP</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1LfWbg-Hq6Ypjb1YqaNCLzTrrg0m3vMvT/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1LfWbg-Hq6Ypjb1YqaNCLzTrrg0m3vMvT" width="240" alt="1994 - M901 - DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE.jpg"></a><br><sub>1994|27 · DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE · <a href="MECHANICAL/1994%20-%20M901%20-%20DOC%20-%20940448-04-002%20-%20ODULES%20ARE%20WIRED%20BUT%20NOT%20SUPPLIIED%20INITIALLY%20FUTURE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/13xDlLRyyxLiLxsBy4mugblLKXKkC48Fp/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=13xDlLRyyxLiLxsBy4mugblLKXKkC48Fp" width="240" alt="19xx - M901 - DOC - 901-03-011 - SQES TDURCE FICTS.jpg"></a><br><sub>19xx - M901 - DOC - 901-03-011 - SQES TDURCE FICTS · <a href="MECHANICAL/19xx%20-%20M901%20-%20DOC%20-%20901-03-011%20-%20SQES%20TDURCE%20FICTS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1YGuhAq5MDaX8dz8gu6bmtEh_tomJhZlP/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1YGuhAq5MDaX8dz8gu6bmtEh_tomJhZlP" width="240" alt="19xx - M901 - DOC - 901-03-012 - SAND AND CLEAN REMOVE ALL BURRS AND SHARP.jpg"></a><br><sub>19xx - M901 - DOC - 901-03-012 - SAND AND CLEAN REMOVE ALL BURRS AND SHARP · <a href="MECHANICAL/19xx%20-%20M901%20-%20DOC%20-%20901-03-012%20-%20SAND%20AND%20CLEAN%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `19xx - 901-03-012 - M450B MOUNTING BRACKET FOR M901 TEST JIG - DRN PAS - ENG PAS - ISS 1.jpg`
