@@ -587,7 +587,7 @@ MW94002/922&922A.WP
 
 ```json
 {
- "file": "Modules/UNSORTED/M901/MANUALS/1995 - M901 - DOC - 14-152-02-003 - COMPONENT LAYOUT.wp",
+ "file": "Modules/RENAISSANCE/M901/MANUALS/1995 - M901 - DOC - 14-152-02-003 - COMPONENT LAYOUT.wp",
  "sha256": "0781dfc03a8e1954ea708a6b38d2f5c1d96e61e79ca776c12c57bcd1e945c554",
  "kind": "doc",
  "models": [
