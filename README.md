@@ -1,6 +1,6 @@
 # M901 Input Module · Renaissance
 
-Ward-Beck Systems M901, 1994|27. Wiki page: [M901 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M901.html)
+Ward-Beck Systems M901, 1994|27. Wiki page: [M901 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
