@@ -83,6 +83,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `19xx - 901-03-012 - M450B MOUNTING BRACKET FOR M901 TEST JIG - DRN PAS - ENG PAS - ISS 1.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M901.stl`](MECHANICAL/M901.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M901)
+
+- **Size:** 38 × 410 mm panel, 168 mm deep, 3.2 mm plate (TECHNICAL DATA: 1.5" wide x 16.2" high x 6.6" deep. (38mm x 410mm x 168mm).)
+- **From the drawing:** 13 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M901 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M901.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
